@@ -11,7 +11,7 @@ Project ini adalah sebuah study case dari sebuah mini course oleh RevoU. Pada pr
 ## **Problem Definition**
 **Define the problem**
 
-- Bagaimanana tren dari jumlah perjalanan (number of trips) vs rata-rata durasi perjalanan (average trip duration)?
+- Bagaimana tren dari jumlah perjalanan (number of trips) vs rata-rata durasi perjalanan (average trip duration)?
 
 - Jenis pelanggan apa yang merupakan penghasil pendapatan terbesar kami?
 
