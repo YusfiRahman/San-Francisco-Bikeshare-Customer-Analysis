@@ -2,7 +2,7 @@
 
 ![Bikeshare](https://user-images.githubusercontent.com/101962147/161291601-927db25c-b203-49c1-a3e9-6d9442d25f49.jpg)
 
-Project ini adalah sebuah study case dari sebuah mini course oleh RevoU. Pada project ini saya melakukan analisis terhadap permasalahan yang ada pada perusahaan _bike sharing program_ yang ada di San Fransisco dengan menggunakan Google BigQuery dan Google Data Studio.
+Project ini adalah sebuah study case dari sebuah mini course oleh RevoU. Pada project ini saya melakukan analisis terhadap permasalahan yang ada pada perusahaan _bike sharing program_ yang ada di San Francisco dengan menggunakan Google BigQuery dan Google Data Studio.
 
 <br/>
 
