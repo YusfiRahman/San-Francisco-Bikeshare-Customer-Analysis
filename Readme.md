@@ -32,7 +32,7 @@ Data yang dianalisa adalah data tahun 2017-2018
 
 ## **Dataset Brief**
 
-Dataset yang digunakan pada project kali adalah 'bigquery-public-data.san_fransisco_bikeshare.bikeshare_trips' dengan jumlah raw data sebanyak 1.947.419 data.
+Dataset yang digunakan pada project kali adalah `bigquery-public-data.san_francisco_bikeshare.bikeshare_trips` dengan jumlah raw data sebanyak 1.947.419 data.
 
 **Table Schema**
 
