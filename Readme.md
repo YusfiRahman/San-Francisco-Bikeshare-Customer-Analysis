@@ -1,4 +1,4 @@
-# **San Fransisco Bikeshare : Customer Analysis**
+# **San Francisco Bikeshare : Customer Analysis**
 
 ![Bikeshare](https://user-images.githubusercontent.com/101962147/161291601-927db25c-b203-49c1-a3e9-6d9442d25f49.jpg)
 
